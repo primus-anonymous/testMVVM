@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVMTests</string>
+    <string name="empty_message">This list is empty</string>
+    <string name="btn_retry">Retry</string>
+    <string name="list_of_cards">Cards</string>
+    <string name="card_details">Card Details</string>
+</resources>
